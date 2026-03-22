@@ -25,6 +25,7 @@ fig, ax1 = plt.subplots(
     figsize=(10, 7),  # x长, y长
 )
 # 创建多图
+fig, (ax1, ax2) = plt.subplots(2, 1)
 fig, axes = plt.subplots(
     2,
     2,  # 行数, 列数
