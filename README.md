@@ -4,8 +4,8 @@
 
 ## 📂 目录说明
 
-* `and.py`: 逻辑运算符练习，理解 Python 中的布尔逻辑。
-* `picture.py`: 学习如何使用 Matplotlib 绘图。
+* `coding`: 理解 Python 各种函数、方法、逻辑运算。
+* `question`: 使用 Python 代码解决各类数学、物理问题。
 
 ---
 > *“物理学的魅力在于用简洁的公式解释复杂的宇宙，而 Python 是我探索宇宙的望远镜。”*
