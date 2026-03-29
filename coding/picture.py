@@ -36,3 +36,10 @@ ax1 = axes[0, 0]  # 第1个子图
 
 ### 共享x轴, 创建第二个y轴
 ax2 = ax1.twinx()
+
+### 法3：用plt进行编辑
+plt.figure(figsize=(12, 5))
+plt.subplot(1, 2, 1)
+plt.plot()
+plt.subplot(1, 2, 2)
+plt.plot()
